@@ -3,37 +3,37 @@
 Tools to make!
 
 Checkers Needed:
-Plex
-Netflix
-Steam
-911.re
-scribbr.com
-Disney
-Hulu
-CrunchyRoll
-Spotify
-Origin
-VyprVPN
-Tunnelbear
-NordVPN
-HBO
-MalwareBytes
-DAZN
-Deezer
-TIDAL
-PSN
-WWE
-Yahoo
-Grammarly
-IPVanish
-Avast
-HideMyAss
-Sufshark
+- Plex
+ -Netflix
+ -Steam
+ -911.re
+ -scribbr.com
+- Disney
+- Hulu
+- CrunchyRoll
+- Spotify
+- Origin
+- VyprVPN
+- Tunnelbear
+- NordVPN
+- HBO
+- MalwareBytes
+- DAZN
+- Deezer
+- TIDAL
+- PSN
+ WWE
+- Yahoo
+- Grammarly
+- IPVanish
+- Avast
+- ideMyAss
+- Sufshark
 - ALL XXX SITES
-Uber
-Deliveroo
-Pizza Hut
-Dominos
+- Uber
+- Deliveroo
+- Pizza Hut
+- Dominos
 -------------------
 
 Discord Based tools
